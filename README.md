@@ -11,6 +11,7 @@ This modpack is a quilt modpack. (https://quiltmc.org/) I have left the quilt lo
 Instalation prossess:
 
 Windows
+
 1: Unzip the .zip file
 
 2: On your keyboard press Windows key and R at the same time. Erase what is there.
@@ -35,6 +36,7 @@ Windows
 
 
 Linux (my platform) (less spicific)
+
 1: Make sure you have OpenJDK (if not go to https://openjdk.org/ and download it there)
 
 2: Unzip file
