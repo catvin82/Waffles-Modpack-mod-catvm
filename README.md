@@ -87,3 +87,7 @@ When you launch Minecraft be sure to select Quilt from the Play menu.
 BSL
 
 sorry BSL users, but I don't know enough about BSL to offer instructions. Try the Linux option if that works! (If you are a BSL user you are probably used to troubleshooting)
+
+
+
+Report bugs on github
