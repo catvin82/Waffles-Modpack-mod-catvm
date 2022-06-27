@@ -2,7 +2,7 @@
 
 
 Hello, my name is Catvin and i have been working on WMM 1.1 / Csalt 2.0.1 for 23 days now and it's finally out!
-A total of 99 mods were put into this modpack.
+A total of 116 mods were put into this modpack.
 I hope you enjoy this modified version of waffle's modpack (at this point it has no traces of the modpack I forked it from: https://modrinth.com/modpack/waffles-modpack)
 These mods are allowed on "almost all" servers including the big ones like hypixel. (as far as I know none of these mods are banned on ANY server.)
 
