@@ -2,7 +2,7 @@
 
 
 Hello, my name is Catvin and i have been working on WMM 1.1 / Csalt 2.0.1 for 23 days now and it's finally out!
-A total of 116 mods were put into this modpack.
+A total of 149 mods were put into this modpack.
 I hope you enjoy this modified version of waffle's modpack (at this point it has no traces of the modpack I forked it from: https://modrinth.com/modpack/waffles-modpack)
 These mods are allowed on "almost all" servers including the big ones like hypixel. (as far as I know none of these mods are banned on ANY server.)
 
@@ -24,7 +24,7 @@ Windows
 
 6: Open "Downloads" in file explorer
 
-7: Copy-paste the files inside "WMMbycatvin" to the "mods folder".
+7: Copy-paste the files inside "mp1" and "mp2" to the "mods folder".
 
 8: Double click "Quilt-Launcher-1.18.2.jar" (or a similar file)
 
@@ -43,7 +43,7 @@ Linux (my platform) (less spicific)
 
 3: In Terminal type the command "java -jar [file for quilt launcher here]"
 
-4: Get all the mods (.jar) and copy paste them in ~/.minecraft/mods/ (make sure there are no files there! if so put them in a folder elsewhere)
+4: Get all the mods (.jar) and copy paste them in ~/.minecraft/mods/ (make sure there are no files there, If there are, put them in a folder elsewhere)
 
 5: In PolyMC, MutiMC, the Vinnila Launcher, or any other linux Minecraft launchers you may use, select quilt 1.18.2
 
@@ -92,4 +92,4 @@ sorry BSL users, but I don't know enough about BSL to offer instructions. Try th
 
 
 
-Report bugs on github
+Report any bugs on github
