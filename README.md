@@ -12,6 +12,10 @@ Instalation prossess:
 
 Windows
 
+
+Pre: Make sure you have java. if you don't get it at https://www.java.com/en/
+
+
 1: Unzip the .zip file
 
 2: On your keyboard press Windows key and R at the same time. Erase what is there.
@@ -27,6 +31,8 @@ Windows
 7: Copy-paste the files inside "mp1" and "mp2" to the "mods folder".
 
 8: Double click "Quilt-Launcher-1.18.2.jar" (or a similar file)
+
+  8-1: I have left an exe in the main branch, installed seperatly to the rest of the modpack (does the same thing)
 
 9: Install quilt through the program.
 
